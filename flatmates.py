@@ -1,2 +1,0 @@
-import turtle
-# test file
